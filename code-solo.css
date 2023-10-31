@@ -1,9 +1,14 @@
 /* CSS styling for code solo */
 
+.header {
+  border: 5px black solid;
+}
 /* 3. Select the sample-1 class. Using the display property, apply a value of flex. Using the justify-content property, apply a value of flex-start. */
 
 
-
+img {
+  border: 5px solid yellow
+}
 /* 4. Select the sample-2 class. Using the display property, apply a value of flex. Using the justify-content property, apply a value of space-between. */
 
 
